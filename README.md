@@ -17,8 +17,8 @@ Downloader Tool Called NoobDownloader its a tool to download social media vedios
 # Website 
 [https://noob-downloader.netlify.app/](https://github.com/OnlyAlmighty/Noob-Downloader-site-HTML-CSS)
 # download and usage 
-- you can download files and setup yourself , [Dowbload Zip](https://github.com/AbodShah/DownloaderTool-YouTube-Instagram-/archive/refs/heads/main.zip)
-- downlaod it as .exe file from here , [noobdownloader.zip](https://github.com/AbodShah/DownloaderTool-YouTube-Instagram-/files/10491505/noobdownloader.zip)
+- you can download files and setup yourself , [Dowbload Zip](https://github.com/AbodShah/DownloaderTool-YouTube-Instagram/archive/refs/heads/main.zip)
+- downlaod it as .exe file from here , [noobdownloader.zip](https://github.com/AbodShah/DownloaderTool-YouTube-Instagram/files/10491505/noobdownloader.zip)
 you need to extract file and will done .
 
 # Credits

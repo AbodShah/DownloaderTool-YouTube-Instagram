@@ -22,6 +22,8 @@ https://noob-downloader.netlify.app/
 you need to extract file and will done .
 
 # Credits
-All copyright are reserved
-creator of this project is [AbodShah](https://github.com/AbodShah/)
+All copyright are reserved,
+
+creator of this project is [AbodShah](https://github.com/AbodShah/),
+
 someone create a website [Almighty](https://github.com/OnlyAlmighty)
